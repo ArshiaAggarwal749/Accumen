@@ -1,4 +1,4 @@
-# Accumen
+# Acumen
 
 Our project aims at maximising profits for product-manufacturers, by providing the most cost-effective way of production.
 Details of various products the manufacturer makes are taken- cost, labour hours and raw materials required.
