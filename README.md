@@ -28,4 +28,5 @@ Product Display Page
 
 ![screencapture-127-0-0-1-5500-productDisplayPage-html-2021-09-04-17_02_24](https://user-images.githubusercontent.com/80393705/132093005-6e526d42-fd82-4cef-aaef-11daeabc9356.png)
 
-
+link of video demonstration :
+https://www.youtube.com/watch?v=i6rusillOas
